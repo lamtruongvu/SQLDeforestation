@@ -1,7 +1,5 @@
-SELECT * FROM forest_area
-WHERE forest_area_sqkm IS NULL;
-SELECT * FROM land_area
-WHERE total_area_sqkm IS NULL;
+SELECT * FROM forest_area;
+SELECT * FROM land_area;
 SELECT * FROM regions;
 
 ALTER TABLE land_area
