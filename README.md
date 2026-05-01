@@ -1,2 +1,1 @@
-# SQLDeforestation
-This project analyses a chocolate sales dataset spanning 2023–2024 to uncover actionable insights across three core dimensions: sales performance, product preferences, and customer behaviour. These insights equip businesses with the evidence base needed to make informed strategic decisions and to strengthen their competitive position in the market.
+ForestQuery is on a mission to raise awareness about deforestation. The data has been obtained from the World Bank, including forest area and total land area by country and region from 1990 to 2016. The data analysis team has used SQL to join these tables and query them to identify areas of concern and opportunities to learn from success stories.
